@@ -7,5 +7,6 @@ projet, il s’agira d’agencer des Tetriminos entre eux et de déterminer le p
 possible pouvant les acueillir.
 
 Usage : make   
-                        ./fillit [YourMap]  
+      ./fillit [YourMap]  
+
 Example : ./fillit map/map_test.fillit
