@@ -6,5 +6,6 @@ parmi un très grand nombre de possibilités, dans un délai raisonable. Dans le
 projet, il s’agira d’agencer des Tetriminos entre eux et de déterminer le plus petit carré
 possible pouvant les acueillir.
 
-Usage : ./fillit [YourMap]
+Usage : make   
+        ./fillit [YourMap]  
 Example : ./fillit map/map_test.fillit
